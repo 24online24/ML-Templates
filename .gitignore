@@ -132,3 +132,4 @@ dmypy.json
 **.zip
 **.csv
 **.pickle
+**.data
