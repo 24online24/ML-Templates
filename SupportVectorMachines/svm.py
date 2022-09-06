@@ -1,6 +1,8 @@
 import sklearn
 from sklearn import datasets
 from sklearn import svm
+from sklearn import metrics
+from sklearn.neighbors import KNeighborsClassifier
 
 dataset = datasets.load_breast_cancer()
 
